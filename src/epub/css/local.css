@@ -117,3 +117,14 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+/* Begin custom dedication for "Passing" */
+section[id="passing-dedication"] p{
+	font-style: italic;
+}
+
+section[id="passing-dedication"] p b{
+	font-style: normal;
+	font-variant: all-small-caps;
+}
+/* End custom dedication for "Passing" */
