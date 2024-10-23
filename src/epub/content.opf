@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/nella-larsen/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-23T22:54:12Z</dc:date>
+		<meta property="dcterms:modified">2024-10-23T22:54:12Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,18 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Nella Larsen’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;During her brief career as a writer, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Nella Larsen&lt;/a&gt; published two novels and three short stories. The most famous of her short works, the short story “Sanctuary” and the novella &lt;i&gt;Passing&lt;/i&gt;, center the perspectives of African-American and mixed-race people in the United States, and handle themes of solidarity and prejudice based on both race and class. Though Larsen’s literary reputation rests mainly upon her treatment of these issues, her other stories, “The Wrong Man” and “Freedom,” concern infidelity and marriage.&lt;/p&gt;
-			&lt;p&gt;Larsen was born in Chicago to a mother and father who had immigrated to the United States from Denmark and the Danish West Indies respectively. She lived in Denmark with her mother for several years as a child before returning to Chicago, and encountered a lack of acceptance in both European and African-American circles. Larsen published her first stories in the 1920s, when she was living with her husband in Harlem and working as a librarian. During these years she became active in the literary community of the Harlem Renaissance, but her career was cut short after the 1930 publication of “Sanctuary” due to accusations of plagiarism, which alienated publishers despite Larsen’s denying wrongdoing in print. Her short fiction draws on her experiences of not belonging and of the African-American middle class into which she had married. It is noted for the acuity of its psychological insight, its use of suspense and plot twists, and the simplicity and elegance of its prose.&lt;/p&gt;
-			&lt;p&gt;Larsen’s novella &lt;i&gt;Passing&lt;/i&gt; concerns the possibility of moving between the highly race-conscious social groups of 1920s New York, and explicitly mocks the idea that ancestry is straightforwardly deducible from behavior. The concept of “passing” had been featured in American fiction for several decades before the 1929 publication of &lt;i&gt;Passing&lt;/i&gt;, but her story combined the issue with questions of social class and morality in a new way. The novella was positively received by critics on publication, including &lt;a href="https://standardebooks.org/ebooks/w-e-b-dubois"&gt;W. E. B. Du Bois&lt;/a&gt;, and was instrumental in Larsen’s receiving a Guggenheim Fellowship in 1930.&lt;/p&gt;
+			&lt;p&gt;During her brief career as a writer, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Nella Larsen&lt;/a&gt; published two novels and three short stories. The most famous of her short works, the short story “Sanctuary” and the novella “Passing,” focus on the perspectives of African-American and mixed-race people in the United States, and handle themes of solidarity and prejudice based on both race and class. Though Larsen’s literary reputation rests mainly upon her treatment of these issues, her other stories, “The Wrong Man” and “Freedom,” concern infidelity and marriage.&lt;/p&gt;
+			&lt;p&gt;Larsen was born in Chicago to a mother and father who had immigrated to the United States from Denmark and the Danish West Indies respectively. She published her first stories in the 1920s, when she was living with her husband in Harlem and working as a librarian. During these years she became active in the literary community of the Harlem Renaissance, but her career was cut short after some accused her of plagiarizing “Sanctuary.” This alienated publishers despite Larsen’s denying any wrongdoing in print.&lt;/p&gt;
+			&lt;p&gt;Her short fiction draws on her experiences of not belonging and of the African-American middle class into which she had married. It is noted for the acuity of its psychological insight, its use of suspense and plot twists, and the simplicity and elegance of its prose.&lt;/p&gt;
+			&lt;p&gt;Larsen’s novella “Passing” concerns the possibility of moving between the highly race-conscious social groups of 1920s New York, and explicitly mocks the idea that ancestry is straightforwardly deducible from behavior. The concept of “passing” had already been featured in American fiction for several decades before, but “Passing” presented the issue in a new way, alongside questions of social class and morality. The novella was positively received by critics, including &lt;a href="https://standardebooks.org/ebooks/w-e-b-dubois"&gt;W. E. B. Du Bois&lt;/a&gt;, and was instrumental in Larsen’s receiving a Guggenheim Fellowship in 1930.&lt;/p&gt;
 			&lt;p&gt;Due to the unavailability of page scans of Larsen’s short stories, this collection currently contains only her novella &lt;i&gt;Passing&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Passing_(Larsen)</dc:source>
 		<dc:source>https://archive.org/details/passing00lars_0</dc:source>
-		<meta property="se:production-notes">Passing was published in 1929 but cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production before 2025.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Passing was published in 1929 but cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production before 2025. Due to the unavailability of page scans of any other short fiction, this collection currently only contains _Passing_.</meta>
+		<meta property="se:word-count">36036</meta>
+		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nella-larsen_short-fiction</meta>
 		<dc:creator id="author">Nella Larsen</dc:creator>
 		<meta property="file-as" refines="#author">Larsen, Nella</meta>
@@ -86,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
