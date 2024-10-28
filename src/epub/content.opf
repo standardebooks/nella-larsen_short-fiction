@@ -48,18 +48,21 @@
 		<meta property="term" refines="#subject-6">sh2008108377</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of Nella Larsen’s short fiction.</dc:description>
+		<dc:description id="description">A collection of Nella Larsen’s short fiction by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During her brief career as a writer, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Nella Larsen&lt;/a&gt; published two novels and three short stories. The most famous of her short works, the short story “Sanctuary” and the novella “Passing,” focus on the perspectives of African-American and mixed-race people in the United States, and handle themes of solidarity and prejudice based on both race and class. Though Larsen’s literary reputation rests mainly upon her treatment of these issues, her other stories, “The Wrong Man” and “Freedom,” concern infidelity and marriage.&lt;/p&gt;
 			&lt;p&gt;Larsen was born in Chicago to a mother and father who had immigrated to the United States from Denmark and the Danish West Indies respectively. She published her first stories in the 1920s, when she was living with her husband in Harlem and working as a librarian. During these years she became active in the literary community of the Harlem Renaissance, but her career was cut short after some accused her of plagiarizing “Sanctuary.” This alienated publishers despite Larsen’s denying any wrongdoing in print.&lt;/p&gt;
 			&lt;p&gt;Her short fiction draws on her experiences of not belonging and of the African-American middle class into which she had married. It is noted for the acuity of its psychological insight, its use of suspense and plot twists, and the simplicity and elegance of its prose.&lt;/p&gt;
 			&lt;p&gt;Larsen’s novella “Passing” concerns the possibility of moving between the highly race-conscious social groups of 1920s New York, and explicitly mocks the idea that ancestry is straightforwardly deducible from behavior. The concept of “passing” had already been featured in American fiction for several decades before, but “Passing” presented the issue in a new way, alongside questions of social class and morality. The novella was positively received by critics, including &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt;, and was instrumental in Larsen’s receiving a Guggenheim Fellowship in 1930.&lt;/p&gt;
-			&lt;p&gt;Due to the unavailability of page scans of Larsen’s short stories, this collection currently contains only her novella “Passing.”&lt;/p&gt;
+			&lt;p&gt;“Sanctuary” is set along a desolate strip of the Southern coast. A desperate man named Jim Hammer seeks refuge at Annie Poole’s isolated cottage. When Jim reveals he’s shot a man—possibly white—Annie reluctantly agrees to hide him, not from kindness but because of her son Obadiah’s inexplicable fondness for this man she considers “no ’count trash.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Passing -->
 		<dc:source>https://en.wikisource.org/wiki/Passing_(Larsen)</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000168287</dc:source>
-		<meta property="se:production-notes">Passing was published in 1929 but cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production before 2025. Due to the unavailability of page scans of any other short fiction, this collection currently only contains _Passing_.</meta>
+		<!-- Sanctuary -->
+		<dc:source>https://archive.org/details/sim_forum-and-century_1930-01_83_1</dc:source>
+		<meta property="se:production-notes">Passing was published in 1929 and Sanctuary was published in 1930. Both were cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production in 2024.</meta>
 		<meta property="se:word-count">36036</meta>
 		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nella-larsen_short-fiction</meta>
@@ -74,11 +77,13 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alfred_Henry_Maurer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79079464</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<!-- Transcriber of "Passing" -->
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://en.wikisource.org</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-1">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<!-- Producer of "Passing" -->
 		<dc:contributor id="producer-1">Erin Endrei</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Endrei, Erin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
@@ -91,6 +96,16 @@
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<!-- Producer/Transcriber of "Sanctuary" -->
+		<dc:contributor id="producer-3">Brendan Fattig</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Fattig, Brendan</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://brendanny.com</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
