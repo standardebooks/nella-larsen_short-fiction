@@ -63,8 +63,8 @@
 		<!-- Sanctuary -->
 		<dc:source>https://archive.org/details/sim_forum-and-century_1930-01_83_1</dc:source>
 		<meta property="se:production-notes">Passing was published in 1929 and Sanctuary was published in 1930. Both were cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production in 2024.</meta>
-		<meta property="se:word-count">36036</meta>
-		<meta property="se:reading-ease.flesch">75.61</meta>
+		<meta property="se:word-count">38111</meta>
+		<meta property="se:reading-ease.flesch">75.71</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nella-larsen_short-fiction</meta>
 		<dc:creator id="author">Nella Larsen</dc:creator>
 		<meta property="file-as" refines="#author">Larsen, Nella</meta>
