@@ -48,6 +48,7 @@
 		<meta property="term" refines="#subject-6">sh2008108377</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Nella Larsen’s short fiction by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During her brief career as a writer, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Nella Larsen&lt;/a&gt; published two novels and three short stories. The most famous of her short works, the short story “Sanctuary” and the novella “Passing,” focus on the perspectives of African-American and mixed-race people in the United States, and handle themes of solidarity and prejudice based on both race and class. Though Larsen’s literary reputation rests mainly upon her treatment of these issues, her other stories, “The Wrong Man” and “Freedom,” concern infidelity and marriage.&lt;/p&gt;
