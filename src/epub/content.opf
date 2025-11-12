@@ -102,11 +102,11 @@
 		<dc:contributor id="producer-3">Brendan Fattig</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Fattig, Brendan</meta>
 		<meta property="se:url.homepage" refines="#producer-3">https://brendanny.com/</meta>
-		<meta property="role" refines="#producer-3" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
