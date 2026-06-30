@@ -1,0 +1,1 @@
+Passing was published in 1929 and Sanctuary was published in 1930. Both were cleared by Project Gutenberg as belonging to the public domain due to lack of copyright renewal. It was therefore legitimate to release this production in 2024.
