@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/nella-larsen/short-fiction</dc:identifier>
 		<dc:date>2024-10-23T22:54:12Z</dc:date>
@@ -51,14 +51,14 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Nella Larsen’s short fiction by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Nella Larsen’s short fiction by date of publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;During her brief career as a writer, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Nella Larsen&lt;/a&gt; published two novels and three short stories. The most famous of her short works, the short story “Sanctuary” and the novella “Passing,” focus on the perspectives of African-American and mixed-race people in the United States, and handle themes of solidarity and prejudice based on both race and class. Though Larsen’s literary reputation rests mainly upon her treatment of these issues, her other stories, “The Wrong Man” and “Freedom,” concern infidelity and marriage.&lt;/p&gt;
 			&lt;p&gt;Larsen was born in Chicago to a mother and father who had immigrated to the United States from Denmark and the Danish West Indies respectively. She published her first stories in the 1920s, when she was living with her husband in Harlem and working as a librarian. During these years she became active in the literary community of the Harlem Renaissance, but her career was cut short after some accused her of plagiarizing “Sanctuary.” This alienated publishers despite Larsen’s denying any wrongdoing in print.&lt;/p&gt;
 			&lt;p&gt;Her short fiction draws on her experiences of not belonging and of the African-American middle class into which she had married. It is noted for the acuity of its psychological insight, its use of suspense and plot twists, and the simplicity and elegance of its prose.&lt;/p&gt;
 			&lt;p&gt;Larsen’s novella “Passing” concerns the possibility of moving between the highly race-conscious social groups of 1920s New York, and explicitly mocks the idea that ancestry is straightforwardly deducible from behavior. The concept of “passing” had already been featured in American fiction for several decades before, but “Passing” presented the issue in a new way, alongside questions of social class and morality. The novella was positively received by critics, including &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt;, and was instrumental in Larsen’s receiving a Guggenheim Fellowship in 1930.&lt;/p&gt;
 			&lt;p&gt;“Sanctuary” is set along a desolate strip of the Southern coast. A desperate man named Jim Hammer seeks refuge at Annie Poole’s isolated cottage. When Jim reveals he’s shot a man—possibly white—Annie reluctantly agrees to hide him, not from kindness but because of her son Obadiah’s inexplicable fondness for this man she considers “no ’count trash.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- Passing -->
 		<dc:source>https://en.wikisource.org/wiki/Passing_(Larsen)</dc:source>
